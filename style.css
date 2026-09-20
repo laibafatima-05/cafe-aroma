@@ -311,10 +311,74 @@
     color: white;
     transform: scale(1.1);
 }
+#contact {
+    /* background-color: #f8f5f1; */
+    padding: 50px 0;
+}
 
+.contact-title {
+    font-family: Georgia, serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: #6f4e37;
+}
 
+.contact-card {
+    height: 180px;
+    border: 1px solid #d6c5b5;
+    border-radius: 12px;
+    background-color:  #eedfd0;
+    transition: 0.3s ease;
+}
 
+.contact-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+}
 
+.contact-icon {
+    font-size: 32px;
+    color: #6f4e37;
+    margin-bottom: 12px;
+}
 
+.contact-card h5 {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #6f4e37;
+    margin-bottom: 8px;
+}
+
+.contact-card p {
+    font-family: Georgia, serif;
+    font-size: 14px;
+    color: #555;
+    margin: 0;
+}
+
+.contact-form {
+    padding: 10px;
+}
+
+.contact-form .form-label {
+    font-family: Georgia, serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #6f4e37;
+    display: block;
+}
+
+.contact-form .form-control {
+    width: 100%;
+    border: 1px solid #c9b8a8;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.contact-form .form-control:focus {
+    border-color: #6f4e37;
+    box-shadow: none;
+}
 
  
