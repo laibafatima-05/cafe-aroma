@@ -18,8 +18,8 @@ https://cafe-aroma-six-navy.vercel.app/
     <td align="center"><b>Gallery Section</b><br><img src="screenshots/gallery.png" width="400"></td>
   </tr>
   <tr>
-    <td align="center"><b>Footer</b><br><img src="screenshots/footer.png" width="400"></td>
     <td align="center"><b>Contact Section</b><br><img src="screenshots/contact.png" width="400"></td>
+    <td align="center"><b>Footer</b><br><img src="screenshots/footer.png" width="400"></td>
   </tr>
 </table>
 
