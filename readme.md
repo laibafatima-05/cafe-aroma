@@ -53,7 +53,7 @@ https://cafe-aroma-six-navy.vercel.app/
 
 ## 👤 Author
 
-**Laiba Fatime**
+**Laiba Fatima**
 Frontend Developer
 
 * GitHub: https://github.com/liabafatima-2008
